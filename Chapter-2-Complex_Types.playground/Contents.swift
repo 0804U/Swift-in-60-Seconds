@@ -1,5 +1,5 @@
 // Swift in 60 Seconds
-// Chapter 1 - Simple Types
+// Chapter 2 - Complex types
 // https://www.hackingwithswift.com/sixty
 
 import UIKit
