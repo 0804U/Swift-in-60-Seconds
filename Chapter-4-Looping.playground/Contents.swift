@@ -1,5 +1,5 @@
 // Swift in 60 Seconds
-// Chapter 1 - Simple Types
+// Chapter 4 - Looping
 // https://www.hackingwithswift.com/sixty
 
 
