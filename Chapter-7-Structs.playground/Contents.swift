@@ -118,15 +118,13 @@ struct FamilyTree {
 
 struct Person3 {
     var name: String
-    var familyTree = FamilyTree()
-    
+    lazy var familyTree = FamilyTree()
     init(name: String) {
         self.name = name
     }
 }
 
 var ed = Person3(name: "Ed")
-// lazy var familyTree = FamilyTree() // error "Lazy is only valid for members of a struct or class"
 ed.familyTree
 
 
